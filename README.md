@@ -9,3 +9,5 @@
 - Parse the output file and save the file
 
 ### Compile and Run Instructions
+To run the code from a bash prompt, enter
+`python main.py InputFile OutputFile`
